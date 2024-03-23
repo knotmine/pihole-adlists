@@ -1,0 +1,6 @@
+# Custom blocklists so IoTs in my network will stop chattering
+
+# Dreo 
+0.0.0.0 time.windows.com
+0.0.0.0 pool.ntp.org
+0.0.0.0 0.amazon.pool.ntp.org
